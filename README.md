@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/sourcenetwork">
-    <img alt="Source" src="https://raw.githubusercontent.com/sourcenetwork/.github/main/assets/source-github-org-banner.png" />
+    <img alt="Source" src="https://raw.githubusercontent.com/defradb/.github/main/assets/source-github-org-banner.png" />
   </a>
 </p>
 
